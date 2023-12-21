@@ -10,7 +10,7 @@
  * the top 5 best scores, which are saved to a text file to be accessed every time the
  * program is booted up.
  * 
- * @author Matthew Lu <lu_matthew@student.fcasd.edu>
+ * @author Matthew Lu <pamalu.225@gmail.com>
  * 
  * 
  */
